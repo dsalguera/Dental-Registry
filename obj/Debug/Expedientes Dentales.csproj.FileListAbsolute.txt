@@ -1,0 +1,13 @@
+C:\Users\Aorus\Desktop\Expedientes Dentales\bin\Debug\Expedientes Dentales.exe.config
+C:\Users\Aorus\Desktop\Expedientes Dentales\bin\Debug\Expedientes Dentales.exe
+C:\Users\Aorus\Desktop\Expedientes Dentales\bin\Debug\Expedientes Dentales.pdb
+C:\Users\Aorus\Desktop\Expedientes Dentales\bin\Debug\Guna.UI2.dll
+C:\Users\Aorus\Desktop\Expedientes Dentales\obj\Debug\Expedientes Dentales.csproj.AssemblyReference.cache
+C:\Users\Aorus\Desktop\Expedientes Dentales\obj\Debug\Expedientes_Dentales.Form1.resources
+C:\Users\Aorus\Desktop\Expedientes Dentales\obj\Debug\Expedientes_Dentales.Previsualizar.resources
+C:\Users\Aorus\Desktop\Expedientes Dentales\obj\Debug\Expedientes_Dentales.Properties.Resources.resources
+C:\Users\Aorus\Desktop\Expedientes Dentales\obj\Debug\Expedientes Dentales.csproj.GenerateResource.cache
+C:\Users\Aorus\Desktop\Expedientes Dentales\obj\Debug\Expedientes Dentales.csproj.CoreCompileInputs.cache
+C:\Users\Aorus\Desktop\Expedientes Dentales\obj\Debug\Expedientes Dentales.csproj.CopyComplete
+C:\Users\Aorus\Desktop\Expedientes Dentales\obj\Debug\Expedientes Dentales.exe
+C:\Users\Aorus\Desktop\Expedientes Dentales\obj\Debug\Expedientes Dentales.pdb
